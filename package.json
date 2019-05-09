@@ -120,6 +120,7 @@
     ]
   },
   "devDependencies": {
-    "dotenv-webpack": "^1.7.0"
+    "dotenv-webpack": "^1.7.0",
+    "terser": "^3.14.1"
   }
 }
